@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1084222889034",
+    "firebase_url": "https://tensiomed-b3262.firebaseio.com",
+    "project_id": "tensiomed-b3262",
+    "storage_bucket": "tensiomed-b3262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084222889034:android:a6467c7cbc6f1133",
+        "android_client_info": {
+          "package_name": "com.edu.tensiomed.tensiomed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084222889034-sn39s0lf8mtevkgj0rgikku0sa78uotg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJRdE-n8xtvVeTqV6_0hH-VjAEEIJQ-L0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
